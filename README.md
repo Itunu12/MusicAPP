@@ -31,7 +31,7 @@ A responsive music player web application that allows users to play, pause, and 
 - GitHub: [@itunu12](https://github.com/itunu12)
 
 ## 🔗 Live Demo  
-👉 [Try it here]([https://itunu12.github.io/MusicAPP/](https://itunu12.github.io/MusicAPP/))  
+👉 [[Try it here](https://itunu12.github.io/MusicAPP/)] ([https://itunu12.github.io/MusicAPP/](https://itunu12.github.io/MusicAPP/))  
 
 ---
 
